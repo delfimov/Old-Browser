@@ -1,0 +1,43 @@
+#check_browser_warning {
+	width:100%;
+	border-bottom:3px solid #ccc;
+	background:#fff;
+}
+#check_browser_warning a {
+	color:#1122CC;
+	text-shadow:none;
+	text-decoration:underline;
+}
+.check_browser_message,
+.check_browser_browsers {
+	margin:10px auto;
+	width:960px;
+	text-align:center;
+}
+.check_browser_browsers {
+	height:160px;
+	width:800px;
+}
+.check_browser_link {
+	width:160px;
+	height:32px;
+	display:inline;
+	float:left;
+	text-align:center;
+	padding-top:128px;
+}
+#check_browser_firefox {
+	background: url("browsers/firefox.jpg") no-repeat top center;
+}
+#check_browser_chrome {
+	background: url("browsers/chrome.jpg") no-repeat top center;
+}
+#check_browser_safari {
+	background: url("browsers/safari.jpg") no-repeat top center;
+}
+#check_browser_opera {
+	background: url("browsers/opera.jpg") no-repeat top center;
+}
+#check_browser_ie {
+	background: url("browsers/ie.jpg") no-repeat top center;
+}
